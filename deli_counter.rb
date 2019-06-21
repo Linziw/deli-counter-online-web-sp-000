@@ -24,7 +24,7 @@ end
 
 def now_serving(katz_deli)
   if katz_deli.size == 0
-puts "The line "
+puts 
 puts "Currently serving #{katz_deli[0]}."
 end
 end
